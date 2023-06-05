@@ -1,10 +1,10 @@
-baseURL = "doxatec.netlify.app"
+baseURL = "codehiveiot.netlify.app"
 disqusShortname = ""
 languageCode = "en"
 paginate = 10
 summaryLength = "20"
 theme = "hargo-hugo"
-title = "Doxatec"
+title = "codehiveIOT"
 [[menu.footer]]
 URL = "products/"
 name = "Products"
@@ -43,7 +43,7 @@ name = "Contact"
 weight = 4
 [params]
 author = "Themefisher"
-copyright = "| Copyright &copy; 2022 [DOXATEC](https://doxatec.netlify,app) All Rights Reserved |"
+copyright = "| Copyright &copy; 2022 [codeHiveIOT](https://codehiveiot.netlify,app) All Rights Reserved |"
 currencySymbol = "Ksh"
 description = "The best iot solutions provider in kenya"
 email = "doxatec@gmail.com"
