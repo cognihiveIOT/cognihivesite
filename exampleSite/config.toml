@@ -1,0 +1,97 @@
+baseURL = "doxatec.netlify.app"
+disqusShortname = ""
+languageCode = "en"
+paginate = 10
+summaryLength = "20"
+theme = "hargo-hugo"
+title = "Doxatec"
+[[menu.footer]]
+URL = "products/"
+name = "Products"
+weight = 1
+[[menu.footer]]
+URL = "blog/"
+name = "Blog"
+weight = 2
+[[menu.footer]]
+URL = "faq/"
+name = "FAQ"
+weight = 3
+[[menu.footer]]
+URL = "terms-conditions/"
+name = "Terms & Conditions"
+weight = 4
+[[menu.footer]]
+URL = "contact/"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "products/"
+name = "Products"
+weight = 1
+[[menu.main]]
+URL = "blog/"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "faq/"
+name = "FAQ"
+weight = 3
+[[menu.main]]
+URL = "contact/"
+name = "Contact"
+weight = 4
+[params]
+author = "Themefisher"
+copyright = "| Copyright &copy; 2022 [DOXATEC](https://doxatec.netlify,app) All Rights Reserved |"
+currencySymbol = "Ksh"
+description = "The best iot solutions provider in kenya"
+email = "doxatec@gmail.com"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+googleAnalitycsID = ""
+home = "Home"
+location = "Eldoret, Kenya"
+logo = "images/logo.png"
+mapLatitude = "35.27022"
+mapLongitude = "0.51994"
+mapMarker = "images/marker.png"
+mobile = "+254725544628"
+snipcartApiKey = "NGZjNjA4YWMtMjVhNS00NDEwLWI1NzItZTEzYjJlNzZjYjYzNjM3OTE0MDM5NDQ0NzQ4MDc2"
+[params.contact]
+formAction = "https://getform.io/f/9eddc3e4-5d60-4837-8984-7c107087eecc"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = "images/Spin.gif"
+[params.rating]
+enable = true
+publicKey = "811cf0927332bf51f2e12f84608594ac"
+websiteID = "444334"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+[[params.social]]
+icon = "ti-youtube"
+link = "#"
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
+[[params.social]]
+icon = "ti-pinterest"
+link = "#"
