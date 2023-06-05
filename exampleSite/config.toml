@@ -1,10 +1,10 @@
-baseURL = "codehiveiot.netlify.app"
+baseURL = "cognihiveiot.netlify.app"
 disqusShortname = ""
 languageCode = "en"
 paginate = 10
 summaryLength = "20"
 theme = "hargo-hugo"
-title = "codehiveIOT"
+title = "Cognihive IOT"
 [[menu.footer]]
 URL = "products/"
 name = "Products"
@@ -43,10 +43,10 @@ name = "Contact"
 weight = 4
 [params]
 author = "Themefisher"
-copyright = "| Copyright &copy; 2022 [codeHiveIOT](https://codehiveiot.netlify,app) All Rights Reserved |"
+copyright = "| Copyright &copy; 2022 [COGNIHIVEIOT](https://cognihiveiot.netlify,app) All Rights Reserved |"
 currencySymbol = "Ksh"
 description = "The best iot solutions provider in kenya"
-email = "doxatec@gmail.com"
+email = "cognihiveiot@gmail.com"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 googleAnalitycsID = ""
 home = "Home"
@@ -82,16 +82,11 @@ publicKey = "811cf0927332bf51f2e12f84608594ac"
 websiteID = "444334"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://web.facebook.com/profile.php?id=100093486183674"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+link = "https://twitter.com/cognihiveIOT"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+link = "https://www.instagram.com/cognihiveiot/"
+
